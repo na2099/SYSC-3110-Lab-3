@@ -15,4 +15,5 @@ public class AddressBook {
     public void removeBuddy (BuddyInfo aBuddy){
         all_buddyInfo.remove(aBuddy);
     }
+
 }
